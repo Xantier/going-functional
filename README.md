@@ -1,2 +1,5 @@
 # going-functional
-Functional programming exercises
+Exercises while practicing functional programming
+
+Haskell:
+https://github.com/bitemyapp/learnhaskell
